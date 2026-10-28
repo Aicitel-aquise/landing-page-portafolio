@@ -20,3 +20,16 @@ Lic. Erik Huallpa
 git init
 ```
 ---
+
+
+- Comando para agregar
+```
+git add index.html
+```
+---
+
+- Comando para agregar varios archivos
+```
+git add .
+```
+---
